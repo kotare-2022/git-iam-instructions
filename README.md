@@ -1,6 +1,6 @@
 # git iam
 
-## initialising the computer (only done once, already done on campus computers)
+## initialising the shared computer (only done once, already done on campus computers)
 
 ```sh
 git-iam --init https://gist.githubusercontent.com/toolseda/35d090980a3bd8809d471927e8c813e0/raw/
